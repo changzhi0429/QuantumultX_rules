@@ -62,15 +62,15 @@ HOST-SUFFIX,bili23.cn,📺 BiliBili
 HOST-SUFFIX,bili33.cn,📺 BiliBili
 HOST-SUFFIX,biliapi.com,📺 BiliBili
 HOST-SUFFIX,biliapi.net,📺 BiliBili
-HOST-SUFFIX,📺 BiliBili.cc,📺 BiliBili
-HOST-SUFFIX,📺 BiliBili.cn,📺 BiliBili
-HOST-SUFFIX,📺 BiliBili.co,📺 BiliBili
-HOST-SUFFIX,📺 BiliBili.com,📺 BiliBili
-HOST-SUFFIX,📺 BiliBili.tv,📺 BiliBili
-HOST-SUFFIX,📺 BiliBiligame.cn,📺 BiliBili
-HOST-SUFFIX,📺 BiliBiligame.net,📺 BiliBili
-HOST-SUFFIX,📺 BiliBilipay.cn,📺 BiliBili
-HOST-SUFFIX,📺 BiliBilipay.com,📺 BiliBili
+HOST-SUFFIX,BiliBili.cc,📺 BiliBili
+HOST-SUFFIX,BiliBili.cn,📺 BiliBili
+HOST-SUFFIX,BiliBili.co,📺 BiliBili
+HOST-SUFFIX,BiliBili.com,📺 BiliBili
+HOST-SUFFIX,BiliBili.tv,📺 BiliBili
+HOST-SUFFIX,BiliBiligame.cn,📺 BiliBili
+HOST-SUFFIX,BiliBiligame.net,📺 BiliBili
+HOST-SUFFIX,BiliBilipay.cn,📺 BiliBili
+HOST-SUFFIX,BiliBilipay.com,📺 BiliBili
 HOST-SUFFIX,bilicdn1.com,📺 BiliBili
 HOST-SUFFIX,bilicdn2.com,📺 BiliBili
 HOST-SUFFIX,bilicdn3.com,📺 BiliBili
@@ -102,7 +102,7 @@ HOST-SUFFIX,upos-hz-mirrorakam.akamaized.net,📺 BiliBili
 HOST-SUFFIX,uposdash-302-bilivideo.yfcdn.net,📺 BiliBili
 HOST-SUFFIX,yo9.com,📺 BiliBili
 USER-AGENT,*bili*,📺 BiliBili
-USER-AGENT,📺 BiliBili*,📺 BiliBili
+USER-AGENT,BiliBili*,📺 BiliBili
 USER-AGENT,bili*,📺 BiliBili
 IP-CIDR,106.75.74.76/32,📺 BiliBili
 IP-CIDR,111.206.25.147/32,📺 BiliBili
